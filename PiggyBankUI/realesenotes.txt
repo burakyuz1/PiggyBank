@@ -1,0 +1,17 @@
+﻿DÜZELTİLEN BUGLAR
+
+- Açılış formu eklendi, kullanıcı istediği hacimde kumbara girebiliyor.
+- 200TL yerine 100TL ekleniyordu, düzeltildi.
+- Coin seçildiğinde kağıt paranın seçimi kalkmıyordu, düzeltildi.
+- Para artık kültüre göre değil, sadece Türk Lirasına göre geliyor.
+- Money BaseClass'ın içinde Bitmap türünde image var. Artık fotoğrafları kendi class'larında taşınıyor.
+- Para fotoğraflarının kalitesi düzeltildi.
+- MoneyList artık private.
+- MoneyBox classının içine bir break metot yazıldı.
+- Hata mesajı sleep süresi 2saniyeye indirildi.
+- IFoldable sadece banknote(katlanabilir paralar için) implemente edildi
+- bir exception handler kullanıldı. Para katlamadan atınca ve hacim dolunca tetilenecek şekilde programlandı.
+
+NOTLAR 
+- KırıldıMı, YapıştırıldıMı propertyleri yerine BreakRemaining Property'si oluşturdum. Bu Prop'un kalan sayısına göre
+  kırıldı mı yoksa yapıştırıldı mı , ona göre aksiyon aldım.

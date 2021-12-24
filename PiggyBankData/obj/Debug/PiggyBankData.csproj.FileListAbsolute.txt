@@ -1,0 +1,12 @@
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.csproj.AssemblyReference.cache
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.csproj.CoreCompileInputs.cache
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\bin\Debug\PiggyBankData.dll
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\bin\Debug\PiggyBankData.pdb
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.dll
+C:\Users\BURAKDEV\source\repos\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.pdb
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\bin\Debug\PiggyBankData.dll
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\bin\Debug\PiggyBankData.pdb
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.csproj.AssemblyReference.cache
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.csproj.CoreCompileInputs.cache
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.dll
+C:\Users\BURAKDEV\Desktop\PiggyBank_Maraton\PiggyBank_Maraton\PiggyBankData\obj\Debug\PiggyBankData.pdb
